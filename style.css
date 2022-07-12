@@ -1,0 +1,53 @@
+body{
+    background-image: url("dj\ ismart.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    user-select: none;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    height: 70px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.speed{
+    float: left;
+    user-select: none;
+}
+
+.speed_img{
+    width: 200px;
+    border-radius: 100px;
+    margin-top: -25px;
+    user-select: none;
+}
+
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.volume{
+    float:right;
+}
+
+#volume{
+    font-size: 23px;
+}
+
+#play{
+    font-size: 50px;
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-top: 250px;
+}
